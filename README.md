@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou o Zoiin
-- 👀 Eu estou interessado em aprender mais sobre progamação
+- 👋 Olá, meu nome é Zoiin
+- Meu email de contado é gabriel.desouzade.oliveira.pr.gov.br
 - 🌱 No momento estou 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
